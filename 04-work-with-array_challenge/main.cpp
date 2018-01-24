@@ -41,7 +41,7 @@ int main(int argc, char* argv[])
 	cout << "----------------------------" << endl;
 
 
-	// initializing tow array and update a index 
+	// initializing two array and update a index 
 	const int numberOfAppleInBox = 5;
 	string appleBox [numberOfAppleInBox] = {"red", "green", "yellow", "yellow", "green"};
 
