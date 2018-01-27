@@ -56,11 +56,11 @@ int main(int argc, char* argv[])
 	bool isNotEqual30 = ( myAge !=30 );
 	cout << "is not equal 30 : " << isNotEqual30 << " :: => 1 == true " << endl;
 
-	bool lessThat20 = ( myAge < 20);
-	cout << "less that 20 : " << lessThat20 << " :: => 0 == false " << endl;
+	bool lessThan20 = ( myAge < 20);
+	cout << "less that 20 : " << lessThan20 << " :: => 0 == false " << endl;
 	
-	bool moreThat20 = ( myAge > 20);
-	cout << "more that 20 : " << moreThat20 << " :: => 1 == true " << endl;
+	bool moreThan20 = ( myAge > 20);
+	cout << "more that 20 : " << moreThan20 << " :: => 1 == true " << endl;
 
 	bool lessOrEqual18 = (myAge <= 18);
 	cout << "less or equal 18 : " << lessOrEqual18 << " :: => 0 == false " << endl;
